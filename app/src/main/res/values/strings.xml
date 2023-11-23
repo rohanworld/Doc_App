@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Doc App</string>
+    <string name="receptionist_button">Receptionist Button</string>
+    <string name="doctor_button">This is Doctor Button</string>
+    <string name="home_page_receptionist">Home Page Receptionist</string>
+</resources>

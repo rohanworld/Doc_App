@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034092624165",
+    "project_id": "doc-app-1",
+    "storage_bucket": "doc-app-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034092624165:android:6d6a57261565663a3f82cc",
+        "android_client_info": {
+          "package_name": "com.android.rohan.hmh.docapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyDUZE473E5QBQ8gLURht9UIRKOhSBqBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
